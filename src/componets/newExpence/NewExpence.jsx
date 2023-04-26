@@ -164,7 +164,6 @@ const ExpenceCont = styled.div`
   width: 780px;
   background: #1f1f1f;
   border-radius: 12px;
-  margin-top: 30px;
+  /* margin-top: 30px; */
   padding: 10px;
-  
 `;

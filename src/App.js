@@ -1,16 +1,12 @@
 import "./App.css";
-import { NewExpence } from "./componets/newExpence/NewExpence";
+// import { NewExpence } from "./componets/newExpence/NewExpence";
+import { Header } from "./componets/newExpence/Header";
 
 function App() {
   return (
     <div className="App">
-      <NewExpence />
+      <Header />
     </div>
   );
 }
 export default App;
-
-
-
-
-

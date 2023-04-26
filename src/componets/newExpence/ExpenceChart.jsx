@@ -43,4 +43,9 @@ const ContainerChartBar = styled.div`
   padding-top: 20px;
   height: 151px;
   border-radius: 12px;
+  /* div{
+
+    transform:rotate(180deg);
+  } */
+  
 `
